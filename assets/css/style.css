@@ -68,7 +68,7 @@ aside {
 
 .menu > li:hover {
     cursor: pointer;
-    background-color: rgb(161, 255, 184);
+    background-color: #a1ffb8;
     border: 1px solid black;
 }
 
